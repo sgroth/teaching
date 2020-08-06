@@ -7,6 +7,17 @@ Bachelor-Seminar im Herbstsemester 2020 am [Institut für Sozialanthropologie un
 **ECTS:**         6  
 **Titel (EN):**   Europeanization Studies
 
+## Inhalt
+- [Seminarbeschreibung](Seminarbeschreibung)
+- [Seminardurchführung](Seminardurchführung)
+- [Anforderungen](Anforderungen)
+- [Arbeitsgrundlagen und Beurteilungskriterien](Arbeitsgrundlagen-und-Beurteilungskriterien)
+- [Allgemeine Beschreibung](Allgemeine-Beschreibung)
+- [Modulspezifisches Lernziel](Modulspezifisches-Lernziel)
+- [Einführende Literatur](Einführende-Literatur)
+- [Ablaufplan](Ablaufplan)
+- [Weiterführende Literatur](Weiterführende-Literatur)
+
 ## Seminarbeschreibung
 Europa ist nicht einfach als historische oder politische Konstante gegeben, sondern wird beständig neu verhandelt und produziert. Daran sind nicht nur politische Akteure und Ebenen beteiligt: Prozesse der Europäisierung werden ebenso in alltäglichen Kontexten sicht- und greifbar, sie haben Einfluss auf Lebenswelten wie sie durch diese auch geprägt werden. Eine empirisch-kulturwissenschaftlicher Perspektive auf Europäisierung interessiert sich entsprechend nicht nur für die unterschiedlichen Policy-Ebenen Europas, sondern ebenso für Narrative, Praktiken, Orte, Artefakte und Imaginationen Europas, die uns alltäglich begegnen. Auch und gerade (politisch) marginale und periphere Akteure spielen dabei eine Rolle. Das Seminar führt in die aktuelle empirisch-kulturwissenschaftliche Europäisierungsforschung ein und arbeitet dazu neben Grundlagenliteratur mit aktuellen Texten, die sich mit spezifischen Aspekten von Europäisierungsprozessen beschäftigen. 
 
