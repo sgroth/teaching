@@ -47,7 +47,7 @@ Referate sollen ca. 15 Minuten dauern. Im Anschluss an das Referat ist die Disku
 Zum Referat ist eine PowerPoint-Präsentation und/oder ein Handout vorzubereiten (es sind auch andere Präsentationsformen und Tools möglich) und zwei Tage vor der Sitzung auf OLAT hochzuladen.
 
 ### Schriftliche Ausarbeitung (50%)
-Die schriftliche Arbeit hat einen Umfang von 10–15 Seiten bzw. von 30'000–45'000 Zeichen ohne Titelblatt & Verzeichnisse. Vergleiche hierzu das entsprechende Merkblatt des ISEK – Populäre Kulturen (s.u.). In der schriftlichen Arbeit soll das Thema des Referates vertiefend erläutert werden. Hierzu ist der jeweilige Forschungsstand zum Thema zu erarbeiten. Der genaue Zuschnitt der schriftlichen Arbeit wird mit dem Dozierenden zum Ende des HS 2020 abzustimmen.
+Die schriftliche Arbeit hat einen Umfang von 10–15 Seiten bzw. von 30'000–45'000 Zeichen ohne Titelblatt & Verzeichnisse. Vergleiche hierzu das entsprechende Merkblatt des ISEK – Populäre Kulturen (s.u.). In der schriftlichen Arbeit soll das Thema des Referates vertiefend erläutert werden. Hierzu ist der jeweilige Forschungsstand zum Thema zu erarbeiten. Der genaue Zuschnitt der schriftlichen Arbeit wird mit dem Dozierenden zum Ende des HS 2020 abgestimmt.
 
 Fristen für die schriftliche Ausarbeitung sind der 1. Juli 2021 (bei Abschluss im FS 2021) oder der 1. Januar 2021 (bei Abschluss im HS 2020).
 
