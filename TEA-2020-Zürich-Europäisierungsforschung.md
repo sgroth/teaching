@@ -1,14 +1,14 @@
 # Europäisierungsforschung
-
 Universität Zürich  
 Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen  
 Herbstsemester 2020, Bachelor  
-[Eintrag im Vorlesungsverzeichnis](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/details/2020/003/E/51012357)  
+[Eintrag im Vorlesungsverzeichnis der UZH](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/details/2020/003/E/51012357)  
 
 **Kursnummer:**   506c019a  
 **ECTS:**         6  
 **Titel (EN):**   Europeanization Studies
 
+## Ablaufplan
 Nr. | Datum | Sitzungsthema | Sitzungsziel | Lektüre
 --- | --- | --- | --- | ---
  1 | 16.09.2020 | Einführung: EU im Alltag? | Überblick über Seminarthema, Ablauf und Leistungsanforderungen |
@@ -96,7 +96,7 @@ Die Studierenden haben einen Überblick über ein spezifisches Themenfeld der Al
 [Ablaufplan](https://www.notion.so/8b81bb080c73443086f3557fe068fa9c)
 
 ## Weiterführende Literatur
-Die Literatur ist zudem als [BibTeX-]() oder [RIS-]()Datei zum Download verfügbar (zum Import in Zotero, EndNote, etc.).  
+Die Literatur sind zum Grossteil als PDF abrufbar. Die Literatur ist zudem als [BibTeX-]() oder [RIS-]()Datei zum Download verfügbar (zum Import in Zotero, EndNote, etc.).  
 
 - Adam, Jens, Manuela Bojadžijev, Michi Knecht, Paweł Lewicki, Nurhak Polat, Regina Römhild, und Rika Spiekermann. 2019. «Europa dezentrieren: Programm und Perspektiven einer Anthropologie reflexiver Europäisierung». In Europa dezentrieren: globale Verflechtungen neu denken, herausgegeben von Jens Adam und Regina Römhild, 7–34. Frankfurt: Campus Verlag.
 - Alpan, Başak, und Alexandra Schwell. 2015. «Introduction: Negotiating Europeanness: The Euro 2012 Championship and Spectator Narratives in an Enlarged European Perspective». In The European Football Championship, herausgegeben von Başak Alpan, Alexandra Schwell, und Albrecht Sonntag, 1–21. London: Palgrave Macmillan UK. [https://doi.org/10.1057/9781137455062_1](https://doi.org/10.1057/9781137455062_1).
