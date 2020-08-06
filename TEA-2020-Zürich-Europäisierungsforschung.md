@@ -1,5 +1,5 @@
 # Europäisierungsforschung
-Dozent: [https://www.isek.uzh.ch/de/populärekulturen/personen/personen/groth.html](Dr. Stefan Groth)  
+Dozent: [Dr. Stefan Groth](https://www.isek.uzh.ch/de/populärekulturen/personen/personen/groth.html)  
 Universität Zürich  
 Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen  
 Herbstsemester 2020, Bachelor  
