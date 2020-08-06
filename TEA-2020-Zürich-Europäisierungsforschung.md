@@ -1,42 +1,11 @@
 # Europäisierungsforschung
-Bachelor-Seminar im HS 2020 am Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen der Universität Zürich  
+Bachelor-Seminar im Herbstsemester 2020 am [Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen der Universität Zürich](https://www.isek.uzh.ch/de/populärekulturen.html)  
 Dozent: [Dr. Stefan Groth](https://www.isek.uzh.ch/de/populärekulturen/personen/personen/groth.html)  
-
 [Eintrag im Vorlesungsverzeichnis der UZH](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/details/2020/003/E/51012357)  
 
 **Kursnummer:**   506c019a  
 **ECTS:**         6  
 **Titel (EN):**   Europeanization Studies
-
-## Ablaufplan
-Nr. | Datum | Sitzungsthema | Sitzungsziel | Lektüre
---- | --- | --- | --- | ---
- 1 | 16.09.2020 | Einführung: EU im Alltag? | Überblick über Seminarthema, Ablauf und Leistungsanforderungen |
- 2 | 23.09.2020 | Grundlegende Perspektiven einer empirisch-kulturwissenschaftlichen Europäisierungsforschung | | Frykman, Jonas. 2012. «A Tale of Two Disciplines: European Ethnology and the Anthropology of Europe». In A Companion to the Anthropology of Europe, herausgegeben von Ullrich Kockel, Máiréad Nic Craith, und Jonas Frykman, 572–89. Chichester, UK: John Wiley & Sons, Ltd. https://doi.org/10.1002/9781118257203.ch33.
-|  |            | | | Schwell, Alexandra. 2012. «Ethnologie europäisch. Ein (unvollständiger) Überblick über die ethnologische Europaforschung». ÖGL Österreich in Geschichte und Literatur (mit Geographie) 56 (2): 137–45.
- 3 | 30.09.2020 | Kritische Europäisierungsforschung | | Adam, Jens, Manuela Bojadžijev, Michi Knecht, Paweł Lewicki, Nurhak Polat, Regina Römhild, und Rika Spiekermann. 2019. «Europa dezentrieren: Programm und Perspektiven einer Anthropologie reflexiver Europäisierung». In Europa dezentrieren: globale Verflechtungen neu denken, herausgegeben von Jens Adam und Regina Römhild, 7–34. Frankfurt: Campus Verlag.
-|  |            | | | Hess, Sabine. 2007. «Transit Migration. Kulturanthropologische Anmerkungen zur Europäisierungsforschung». Zeitschrift für Volkskunde 103 (1): 21–37. 
- 4 | 07.10.2020 | EU, Integration und Nationalstaaten | | Trenz, Hans-Jörg. 2015. «The Saga of Europeanisation: On the Narrative Construction of a European Society». In European Integration, Processes of Change and the National Experience, herausgegeben von Stefanie Börner und Monika Eigmüller, 207–27. London: Palgrave Macmillan UK. https://doi.org/10.1057/9781137411259_10.
-|  |            | | | Römhild, Regina. 2010. «Prekarität und Kreativität in Europa. Die soziale Erosion des Nationalstaats und die Mobilisierung sozialer Praxis in der Perspektive einer politischen Anthropologie». Zeitschrift für Volkskunde 106 (1): 23–44. 
- 5 | 14.10.2020 | Europäisierung und Kultur | | Habit, Daniel. 2015. «Die EUropäisierung Europas». In Europäische Ethnologie in München. Ein kultuwissenschaftlicher Reader, herausgegeben von Irene Götz, Johannes Moser, Moritz Ege, und Burkhart Lauterbach, 111–36. Münchner Beiträge zur Volkskunde 42. Münster: Waxmann.
-|  |            | | | Groth, Stefan. 2016. «EU/Kultur: Zu Flexibilität und Kohärenz des Kulturbegriffes im Rahmen europäischer Kulturpolitik». Rheinisch-Westfälische Zeitschrift für Volkskunde 61: 205–24. 
- 6 | 21.10.2020 | Kulturelles Erbe und europäische Erinnerungspolitiken | | Johler, Reinhard. 2019. «The EU as Manufacturer of Tradition and Cultural Heritage». In Culture and Economy, herausgegeben von Ullrich Kockel, 1. Aufl., 221–30. Routledge. https://doi.org/10.4324/9781315195469-14.
-|  |            | | | Macdonald, Sharon. 2012. «Presencing Europe’s Pasts». In A Companion to the Anthropology of Europe, herausgegeben von Ullrich Kockel, Máiréad Nic Craith, und Jonas Frykman, 231–52. Chichester, UK: John Wiley & Sons, Ltd. https://doi.org/10.1002/9781118257203.ch14.
- 7 | 28.10.2020 | EU-Skeptizismus und Populismus | | Gusterson, Hugh. 2017. «From Brexit to Trump: Anthropology and the Rise of Nationalist Populism: From Brexit to Trump». American Ethnologist 44 (2): 209–14. https://doi.org/10.1111/amet.12469.
-|  |            | | | Ilieva, Polya, und Thomas M. Wilson. 2011. «Euroscepticism and Europeanisation at a Margin of Europe». Anthropological Journal of European Cultures 20 (2): 87–113. https://doi.org/10.3167/ajec.2011.200205.
- 8 | 04.11.2020 | Austerität und Krise | | Poehls, Kerstin. 2014. «Zettelwirtschaft. Consumer Citizenship, Europäisierung und Krisenpolitik in Griechenland». In Formationen des Politischen. Anthropologie politischer Felder, herausgegeben von Jens Adam und Asta Vonderau, 305–30. Bielefeld: transcript Verlag.
-|  |            | | | Raudon, Sally, und Cris Shore. 2018. «The Eurozone Crisis, Greece and European Integration. Anthropological Perspectives on Austerity in the EU». Anthropological Journal of European Cultures 27 (1): 64–83. https://doi.org/10.3167/ajec.2018.270111.
- 9 | 11.11.2020 | Binnengrenzen der EU | | Asher, Andrew D. 2011. «A Divided City in a Common Market. Everyday Instrumentalities on the Polish-German Border». Anthropological Journal of European Cultures 20 (2): 43–67. https://doi.org/10.3167/ajec.2011.200203.
-|  |            | | | Schwell, Alexandra. 2017. «When Worlds Collide: Negotiating Work Ethics on the German–Polish Border». East European Politics and Societies 31 (2): 269–89. https://doi.org/10.1177/0888325416643163.
-10 | 18.11.2020 | Europäisches Grenzregime | | Hess, Sabine, und Bernd Kasparek. 2019. «The Post-2015 European Border Regime. New Approaches in a Shifting Field». Archivio Antropologico Mediterraneo 21 (2): 1–16. https://doi.org/10.4000/aam.1812.
-|  |            | | | Schwertl, Maria. 2018. «Die Entmenschlichung der Grenze. Zur Bedeutung von Technisierung im europäischen Migrations- und Grenzregime». movements. Journal for Critical Migration and Border Regime Studies 4 (2): 77–101.
-11 | 25.11.2020 | Europäische Produkte | | Welz, Gisela. 2013. «Halloumi/Hellim: Global Markets, European Union Regulation, and Ethnicised Cultural Property». The Cyprus Review 25 (1): 37–54.
-|  |            | | | Tschofen, Bernhard. 2007. «Vom Geschmack der Regionen. Kulinarische Praxis, europäische Politik und räumliche Kultur - eine Forschungsskizze». Zeitschrift für Volkskunde 103 (2): 169–96.
-12 | 02.12.2020 | Lokale Umsetzung von EU-Policies | | Müller, Oliver, Ove Sutter, und Sina Wohlgemuth. 2019. «Translating the Bottom-Up Frame». Anthropological Journal of European Cultures 28 (2): 45–65. https://doi.org/10.3167/ajec.2019.280204.
-|  |            | | | Mishtal, Joanna. 2014. «Reproductive Governance in the New Europe. Competing Visions of Morality, Sovereignty and Supranational Policy». Anthropological Journal of European Cultures 23 (1): 59–76. https://doi.org/10.3167/ajec.2014.230104.
-13 | 09.12.2020 | EUrocrats und europäische Civil Servants | | Lewicki, Paweł. 2016. «European Bodies? Class and Gender Dynamics among EU Civil Servants in Brussels». Anthropological Journal of European Cultures 25 (2): 116–38. https://doi.org/10.3167/ajec.2016.250206.
-|  |            | | | Thedvall, Renita. 2007. «The EU’s Nomads: National Eurocrats in European Policymaking». In Observing Government Elites: Up Close and Personal, herausgegeben von R. A. W Rhodes, Paul ’t Hart, und Mirko Noordegraaf, 160–79. Basingstoke: Palgrave Macmillan.
-14 | 16.12.2020 | Schlusssitzung: Offene Diskussionsrunde und Feedback | |
 
 ## Seminarbeschreibung
 Europa ist nicht einfach als historische oder politische Konstante gegeben, sondern wird beständig neu verhandelt und produziert. Daran sind nicht nur politische Akteure und Ebenen beteiligt: Prozesse der Europäisierung werden ebenso in alltäglichen Kontexten sicht- und greifbar, sie haben Einfluss auf Lebenswelten wie sie durch diese auch geprägt werden. Eine empirisch-kulturwissenschaftlicher Perspektive auf Europäisierung interessiert sich entsprechend nicht nur für die unterschiedlichen Policy-Ebenen Europas, sondern ebenso für Narrative, Praktiken, Orte, Artefakte und Imaginationen Europas, die uns alltäglich begegnen. Auch und gerade (politisch) marginale und periphere Akteure spielen dabei eine Rolle. Das Seminar führt in die aktuelle empirisch-kulturwissenschaftliche Europäisierungsforschung ein und arbeitet dazu neben Grundlagenliteratur mit aktuellen Texten, die sich mit spezifischen Aspekten von Europäisierungsprozessen beschäftigen. 
@@ -93,7 +62,35 @@ Die Studierenden haben einen Überblick über ein spezifisches Themenfeld der Al
 - Welz, Gisela. 2006. «Europäisierung als qualkulatives Regime». In Turn to Europe: Kulturanthropologische Europaforschungen, herausgegeben von Kerstin Poehls und Asta Vonderau, 11–25. Berlin: Lit.
 - Shore, Cris, und Marc Abeles. 2004. «Debating the European Union: An Interview with Cris Shore and Marc Abeles». Anthropology Today 20 (2): 10–14. [https://doi.org/10/b3rd6](https://doi.org/10/b3rd6v)
 
-[Ablaufplan](https://www.notion.so/8b81bb080c73443086f3557fe068fa9c)
+## Ablaufplan
+Nr. | Datum | Sitzungsthema | Sitzungsziel | Lektüre
+--- | --- | --- | --- | ---
+ 1 | 16.09.2020 | Einführung: EU im Alltag? | Überblick über Seminarthema, Ablauf und Leistungsanforderungen |
+ 2 | 23.09.2020 | Grundlegende Perspektiven einer empirisch-kulturwissenschaftlichen Europäisierungsforschung | | Frykman, Jonas. 2012. «A Tale of Two Disciplines: European Ethnology and the Anthropology of Europe». In A Companion to the Anthropology of Europe, herausgegeben von Ullrich Kockel, Máiréad Nic Craith, und Jonas Frykman, 572–89. Chichester, UK: John Wiley & Sons, Ltd. https://doi.org/10.1002/9781118257203.ch33.
+|  |            | | | Schwell, Alexandra. 2012. «Ethnologie europäisch. Ein (unvollständiger) Überblick über die ethnologische Europaforschung». ÖGL Österreich in Geschichte und Literatur (mit Geographie) 56 (2): 137–45.
+ 3 | 30.09.2020 | Kritische Europäisierungsforschung | | Adam, Jens, Manuela Bojadžijev, Michi Knecht, Paweł Lewicki, Nurhak Polat, Regina Römhild, und Rika Spiekermann. 2019. «Europa dezentrieren: Programm und Perspektiven einer Anthropologie reflexiver Europäisierung». In Europa dezentrieren: globale Verflechtungen neu denken, herausgegeben von Jens Adam und Regina Römhild, 7–34. Frankfurt: Campus Verlag.
+|  |            | | | Hess, Sabine. 2007. «Transit Migration. Kulturanthropologische Anmerkungen zur Europäisierungsforschung». Zeitschrift für Volkskunde 103 (1): 21–37. 
+ 4 | 07.10.2020 | EU, Integration und Nationalstaaten | | Trenz, Hans-Jörg. 2015. «The Saga of Europeanisation: On the Narrative Construction of a European Society». In European Integration, Processes of Change and the National Experience, herausgegeben von Stefanie Börner und Monika Eigmüller, 207–27. London: Palgrave Macmillan UK. https://doi.org/10.1057/9781137411259_10.
+|  |            | | | Römhild, Regina. 2010. «Prekarität und Kreativität in Europa. Die soziale Erosion des Nationalstaats und die Mobilisierung sozialer Praxis in der Perspektive einer politischen Anthropologie». Zeitschrift für Volkskunde 106 (1): 23–44. 
+ 5 | 14.10.2020 | Europäisierung und Kultur | | Habit, Daniel. 2015. «Die EUropäisierung Europas». In Europäische Ethnologie in München. Ein kultuwissenschaftlicher Reader, herausgegeben von Irene Götz, Johannes Moser, Moritz Ege, und Burkhart Lauterbach, 111–36. Münchner Beiträge zur Volkskunde 42. Münster: Waxmann.
+|  |            | | | Groth, Stefan. 2016. «EU/Kultur: Zu Flexibilität und Kohärenz des Kulturbegriffes im Rahmen europäischer Kulturpolitik». Rheinisch-Westfälische Zeitschrift für Volkskunde 61: 205–24. 
+ 6 | 21.10.2020 | Kulturelles Erbe und europäische Erinnerungspolitiken | | Johler, Reinhard. 2019. «The EU as Manufacturer of Tradition and Cultural Heritage». In Culture and Economy, herausgegeben von Ullrich Kockel, 1. Aufl., 221–30. Routledge. https://doi.org/10.4324/9781315195469-14.
+|  |            | | | Macdonald, Sharon. 2012. «Presencing Europe’s Pasts». In A Companion to the Anthropology of Europe, herausgegeben von Ullrich Kockel, Máiréad Nic Craith, und Jonas Frykman, 231–52. Chichester, UK: John Wiley & Sons, Ltd. https://doi.org/10.1002/9781118257203.ch14.
+ 7 | 28.10.2020 | EU-Skeptizismus und Populismus | | Gusterson, Hugh. 2017. «From Brexit to Trump: Anthropology and the Rise of Nationalist Populism: From Brexit to Trump». American Ethnologist 44 (2): 209–14. https://doi.org/10.1111/amet.12469.
+|  |            | | | Ilieva, Polya, und Thomas M. Wilson. 2011. «Euroscepticism and Europeanisation at a Margin of Europe». Anthropological Journal of European Cultures 20 (2): 87–113. https://doi.org/10.3167/ajec.2011.200205.
+ 8 | 04.11.2020 | Austerität und Krise | | Poehls, Kerstin. 2014. «Zettelwirtschaft. Consumer Citizenship, Europäisierung und Krisenpolitik in Griechenland». In Formationen des Politischen. Anthropologie politischer Felder, herausgegeben von Jens Adam und Asta Vonderau, 305–30. Bielefeld: transcript Verlag.
+|  |            | | | Raudon, Sally, und Cris Shore. 2018. «The Eurozone Crisis, Greece and European Integration. Anthropological Perspectives on Austerity in the EU». Anthropological Journal of European Cultures 27 (1): 64–83. https://doi.org/10.3167/ajec.2018.270111.
+ 9 | 11.11.2020 | Binnengrenzen der EU | | Asher, Andrew D. 2011. «A Divided City in a Common Market. Everyday Instrumentalities on the Polish-German Border». Anthropological Journal of European Cultures 20 (2): 43–67. https://doi.org/10.3167/ajec.2011.200203.
+|  |            | | | Schwell, Alexandra. 2017. «When Worlds Collide: Negotiating Work Ethics on the German–Polish Border». East European Politics and Societies 31 (2): 269–89. https://doi.org/10.1177/0888325416643163.
+10 | 18.11.2020 | Europäisches Grenzregime | | Hess, Sabine, und Bernd Kasparek. 2019. «The Post-2015 European Border Regime. New Approaches in a Shifting Field». Archivio Antropologico Mediterraneo 21 (2): 1–16. https://doi.org/10.4000/aam.1812.
+|  |            | | | Schwertl, Maria. 2018. «Die Entmenschlichung der Grenze. Zur Bedeutung von Technisierung im europäischen Migrations- und Grenzregime». movements. Journal for Critical Migration and Border Regime Studies 4 (2): 77–101.
+11 | 25.11.2020 | Europäische Produkte | | Welz, Gisela. 2013. «Halloumi/Hellim: Global Markets, European Union Regulation, and Ethnicised Cultural Property». The Cyprus Review 25 (1): 37–54.
+|  |            | | | Tschofen, Bernhard. 2007. «Vom Geschmack der Regionen. Kulinarische Praxis, europäische Politik und räumliche Kultur - eine Forschungsskizze». Zeitschrift für Volkskunde 103 (2): 169–96.
+12 | 02.12.2020 | Lokale Umsetzung von EU-Policies | | Müller, Oliver, Ove Sutter, und Sina Wohlgemuth. 2019. «Translating the Bottom-Up Frame». Anthropological Journal of European Cultures 28 (2): 45–65. https://doi.org/10.3167/ajec.2019.280204.
+|  |            | | | Mishtal, Joanna. 2014. «Reproductive Governance in the New Europe. Competing Visions of Morality, Sovereignty and Supranational Policy». Anthropological Journal of European Cultures 23 (1): 59–76. https://doi.org/10.3167/ajec.2014.230104.
+13 | 09.12.2020 | EUrocrats und europäische Civil Servants | | Lewicki, Paweł. 2016. «European Bodies? Class and Gender Dynamics among EU Civil Servants in Brussels». Anthropological Journal of European Cultures 25 (2): 116–38. https://doi.org/10.3167/ajec.2016.250206.
+|  |            | | | Thedvall, Renita. 2007. «The EU’s Nomads: National Eurocrats in European Policymaking». In Observing Government Elites: Up Close and Personal, herausgegeben von R. A. W Rhodes, Paul ’t Hart, und Mirko Noordegraaf, 160–79. Basingstoke: Palgrave Macmillan.
+14 | 16.12.2020 | Schlusssitzung: Offene Diskussionsrunde und Feedback | |
 
 ## Weiterführende Literatur
 Die Literatur ist zum Grossteil aus dem Netz der UZH als PDF abrufbar. Einige Titel sind auf OLAT hinterlegt. Die Literatur ist zudem als [BibTeX-](references.bib)Datei zum Download verfügbar (zum Import in Zotero, EndNote, etc.).  
