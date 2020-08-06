@@ -1,4 +1,5 @@
 # Europäisierungsforschung
+Dozent: [https://www.isek.uzh.ch/de/populärekulturen/personen/personen/groth.html](Dr. Stefan Groth)  
 Universität Zürich  
 Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen  
 Herbstsemester 2020, Bachelor  
@@ -96,7 +97,7 @@ Die Studierenden haben einen Überblick über ein spezifisches Themenfeld der Al
 [Ablaufplan](https://www.notion.so/8b81bb080c73443086f3557fe068fa9c)
 
 ## Weiterführende Literatur
-Die Literatur sind zum Grossteil als PDF abrufbar. Die Literatur ist zudem als [BibTeX-]() oder [RIS-]()Datei zum Download verfügbar (zum Import in Zotero, EndNote, etc.).  
+Die Literatur ist zum Grossteil aus dem Netz der UZH als PDF abrufbar. Einige Titel sind auf OLAT hinterlegt. Die Literatur ist zudem als [BibTeX-](TEA-2020-Zürich-Europäisierungsforschung-literatur.bib) oder [RIS-](TEA-2020-Zürich-Europäisierungsforschung-literatur.ris)Datei zum Download verfügbar (zum Import in Zotero, EndNote, etc.).  
 
 - Adam, Jens, Manuela Bojadžijev, Michi Knecht, Paweł Lewicki, Nurhak Polat, Regina Römhild, und Rika Spiekermann. 2019. «Europa dezentrieren: Programm und Perspektiven einer Anthropologie reflexiver Europäisierung». In Europa dezentrieren: globale Verflechtungen neu denken, herausgegeben von Jens Adam und Regina Römhild, 7–34. Frankfurt: Campus Verlag.
 - Alpan, Başak, und Alexandra Schwell. 2015. «Introduction: Negotiating Europeanness: The Euro 2012 Championship and Spectator Narratives in an Enlarged European Perspective». In The European Football Championship, herausgegeben von Başak Alpan, Alexandra Schwell, und Albrecht Sonntag, 1–21. London: Palgrave Macmillan UK. [https://doi.org/10.1057/9781137455062_1](https://doi.org/10.1057/9781137455062_1).
