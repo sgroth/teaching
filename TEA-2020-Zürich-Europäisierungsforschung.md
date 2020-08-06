@@ -1,8 +1,7 @@
 # Europäisierungsforschung
+Bachelor-Seminar im HS 2020 am Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen der Universität Zürich  
 Dozent: [Dr. Stefan Groth](https://www.isek.uzh.ch/de/populärekulturen/personen/personen/groth.html)  
-Universität Zürich  
-Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen  
-Herbstsemester 2020, Bachelor  
+
 [Eintrag im Vorlesungsverzeichnis der UZH](https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/details/2020/003/E/51012357)  
 
 **Kursnummer:**   506c019a  
