@@ -1,3 +1,3 @@
 ## Zürich
 ### HS2020
-- [Europäisierungsforschung](HS2020-Zürich-Europäisierungsforschung.md)
+- [Europäisierungsforschung](https://github.com/sgroth/teaching/blob/master/HS2020-Zurich-Europaisierungsforschung.md)
