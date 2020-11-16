@@ -100,7 +100,7 @@ Nr. | Datum | Sitzungsthema | Sitzungsfragen | Lektüre
 |  |            | | | Mishtal, Joanna. 2014. «Reproductive Governance in the New Europe. Competing Visions of Morality, Sovereignty and Supranational Policy». Anthropological Journal of European Cultures 23 (1): 59–76. https://doi.org/10.3167/ajec.2014.230104.
 13 | 09.12.2020 | EUrocrats und europäische Civil Servants | Welche Rolle spielen Bürokraten für europäische Politik? Was lässt sich über Beamte im Dienst der EU sagen? | Lewicki, Paweł. 2016. «European Bodies? Class and Gender Dynamics among EU Civil Servants in Brussels». Anthropological Journal of European Cultures 25 (2): 116–38. https://doi.org/10.3167/ajec.2016.250206.
 |  |            | | | Thedvall, Renita. 2007. «The EU’s Nomads: National Eurocrats in European Policymaking». In Observing Government Elites: Up Close and Personal, herausgegeben von R. A. W Rhodes, Paul ’t Hart, und Mirko Noordegraaf, 160–79. Basingstoke: Palgrave Macmillan.
-14 | 16.12.2020 | Schlusssitzung: Offene Diskussionsrunde und Feedback | Offene Fragen zum Thema diskutieren und Rückblick auf das Seminar, Klärung von Fragen zu Leistungsnachweisen |
+14 | 16.12.2020 | Schlusssitzung: ~~Offene Diskussionsrunde und Feedback~~ Nachholtermin EU-Skeptizismus und Populismus | Offene Fragen zum Thema diskutieren und Rückblick auf das Seminar, Klärung von Fragen zu Leistungsnachweisen |
 
 ## Weiterführende Literatur
 Die Literatur ist zum Grossteil aus dem Netz der UZH als PDF abrufbar. Einige Titel sind auf OLAT hinterlegt. Die Literatur ist zudem als [BibTeX-](HS2020-Zürich-Europäisierungsforschung.bib)Datei zum Download verfügbar (zum Import in Zotero, EndNote, etc.).  
