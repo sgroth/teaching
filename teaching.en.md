@@ -15,7 +15,7 @@
   
 ### 2020
 * Europeanization Studies (Europäisierungsforschung), Bachelor, fall term 2020. University of Zurich, Department of Social Anthropology and Cultural Studies, Popular Culture Studies. 
-* Ethnographies of Deviance and Criminality (Ethnographien der Devianz, des Geheimen und des Kriminellen), Master, fall term 2020. University of Zurich, Department of Social Anthropology and Cultural Studies, Popular Culture Studies. 
+* Ethnographies of Deviance and Crime (Ethnographien der Devianz, des Geheimen und des Kriminellen), Master, fall term 2020. University of Zurich, Department of Social Anthropology and Cultural Studies, Popular Culture Studies. 
 * Qualitative Approaches to International Organizations (in English), Master, fall term 2020. University of Zurich, Department of Social Anthropology and Cultural Studies, Popular Culture Studies. 
 * Introduction to Qualitative Methods. Introductory Course of the Interdisciplinary M.A.-Program Methods - Data - Society, Master, fall term 2020. University of Zurich, Department of Social Anthropology and Cultural Studies, Popular Culture Studies. 
   
