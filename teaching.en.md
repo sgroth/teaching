@@ -25,9 +25,9 @@
 * Comparison as Cultural, Social, and Scholarly Practice (Vergleich als kulturelle, soziale und wissenschaftliche Praxis), Bachelor, spring term 2019. University of Zurich, Department of Social Anthropology and Cultural Studies, Popular Culture Studies. 
   
 ### 2018
-* Dialogues on Methods (Methodendialoge), lecture series, Bachelor / Master, fall term 2018. University of Zurich, Department of Social Anthropology and Cultural Studies, Popular Culture Studies. With presenters from European Ethnology and Social Anthropology (conception, organisation and three lectures).
+* Dialogues on Methods (Methodendialoge), lecture series, Bachelor/Master, fall term 2018. University of Zurich, Department of Social Anthropology and Cultural Studies, Popular Culture Studies. With presenters from European Ethnology and Social Anthropology (conception, organisation and three lectures).
 * Living in the City (Wohnen in der Stadt. Stadtethnologische Zugänge zum Wohnen in Stadt und Vorstadt), Bachelor, fall term 2018. University of Zurich, Department of Social Anthropology and Cultural Studies, Popular Culture Studies. 
-* Cycles, Structures, and Rhythms: Orders in Everyday Life and Society (Zyklen, Strukturen und Rhythmen: Ordnungen in Alltag und Gesellschaft), lecture series, Bachelor / Master, spring term 2018. University of Zurich, Department of Social Anthropology and Cultural Studies, Popular Culture Studies. With presenters from European Ethnology from Zurich and Basel, including presentation coaching and publication of edited volume (three lectures, conception, organisation, and moderation).
+* Cycles, Structures, and Rhythms: Orders in Everyday Life and Society (Zyklen, Strukturen und Rhythmen: Ordnungen in Alltag und Gesellschaft), lecture series, Bachelor/Master, spring term 2018. University of Zurich, Department of Social Anthropology and Cultural Studies, Popular Culture Studies. With presenters from European Ethnology from Zurich and Basel, including presentation coaching and publication of edited volume (three lectures, conception, organisation, and moderation).
   
 ### 2017
 * Places of Knowledge -- ReVisiting Black Mountain College (Wissensorte – ReVisiting Black Mountain College), research-based teaching project, Master, fall term and spring term 2017. University of Zurich, Department of Social Anthropology and Cultural Studies, Popular Culture Studies. Cooperation project with Zurich University of the Arts.
@@ -49,17 +49,17 @@
 ## University of Göttingen
   
 ### 2013
-* Culture and Communication (Kultur und Kommunikation: Einführung in die Ethnographie der Kommunikation und linguistische Anthropologie), Master, fall term 2013. University of Göttingen, Institute of Cultural Anthropology / European Ethnology. 
-* Culture Theories (Kulturtheorien), lecture series, spring term 2013. University of Göttingen, Institute of Cultural Anthropology / European Ethnology. Lecture on Structuralism.
+* Culture and Communication (Kultur und Kommunikation: Einführung in die Ethnographie der Kommunikation und linguistische Anthropologie), Master, fall term 2013. University of Göttingen, Institute of Cultural Anthropology/European Ethnology. 
+* Culture Theories (Kulturtheorien), lecture series, spring term 2013. University of Göttingen, Institute of Cultural Anthropology/European Ethnology. Lecture on Structuralism.
   
 ### 2012
-* Culture Theories (Kulturtheorien), lecture series, spring term 2012. University of Göttingen, Institute of Cultural Anthropology / European Ethnology. Lecture on Evolutionism, Cultural Relativism, and Functionalism.
+* Culture Theories (Kulturtheorien), lecture series, spring term 2012. University of Göttingen, Institute of Cultural Anthropology/European Ethnology. Lecture on Evolutionism, Cultural Relativism, and Functionalism.
   
 ### 2011
-* Culture Theories (Kulturtheorien), spring term 2011. University of Göttingen, Institute of Cultural Anthropology / European Ethnology. 
+* Culture Theories (Kulturtheorien), spring term 2011. University of Göttingen, Institute of Cultural Anthropology/European Ethnology. 
   
 ### 2009
-* Cultural Relativism (Das Konzept des Kulturrelativismus), fall term 2009. University of Göttingen, Institute of Cultural Anthropology / European Ethnology. 
+* Cultural Relativism (Das Konzept des Kulturrelativismus), fall term 2009. University of Göttingen, Institute of Cultural Anthropology/European Ethnology. 
 
 ## University of Basel
   
