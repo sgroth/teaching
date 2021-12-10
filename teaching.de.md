@@ -10,11 +10,11 @@
   
 ### 2021
 * Aktuelle Methodendiskussionen der Empirischen Kulturwissenschaft, Seminar, Master, FS 2021. Universität Zürich, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen. 
-* Kulturerbe an den Rändern: Orte des marginalen Erinnerns, Seminar, Bachelor, FS 2021. Universität Zürich, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen. 
+* Kulturerbe an den Rändern: Orte des marginalen Erinnerns, Seminar, Bachelor, FS 2021. Universität Zürich, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen. 
 * Grundlagen qualitative Methoden. Einführungsmodul im interdisziplinären Master Methods – Data – Society (mit Dozierenden aus Ethnologie und Religionswissenschaft), Seminar, Master, FS 2021. Universität Zürich, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen. 
   
 ### 2020
-* Europäisierungsforschung, Seminar, Bachelor, HS 2020. Universität Zürich, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen. 
+* Europäisierungsforschung, Seminar, Bachelor, HS 2020. Universität Zürich, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen. 
 * Lektüreseminar Ethnographien der Devianz, des Geheimen und des Kriminellen, Seminar, Master, HS 2020. Universität Zürich, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen. 
 * Qualitative Approaches to International Organizations (in englischer Sprache), Seminar, Master, HS 2020. Universität Zürich, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen. 
 * Grundlagen qualitative Methoden. Einführungsmodul im interdisziplinären Master Methods – Data – Society (mit Dozierenden aus Ethnologie und Religionswissenschaft), Seminar, Master, HS 2020. Universität Zürich, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Populäre Kulturen. 
