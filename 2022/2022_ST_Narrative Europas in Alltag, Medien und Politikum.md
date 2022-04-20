@@ -1,4 +1,3 @@
-
 ---
 course: Narrative Europas in Alltag, Medien und Politik
 type: Seminar
