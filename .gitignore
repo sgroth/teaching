@@ -1,0 +1,11 @@
+.DS_Store
+*.log
+*~
+*.swp
+private.de.yaml
+private.en.yaml
+output/*
+_archive/*
+_site/*
+unpublished.yaml
+temp.yaml
