@@ -102,7 +102,7 @@ Zudem: Präsentation Rechercheergebnisse
 ## Literatur
 Aceska, Ana, und Ana-Roxana Mitroi. 2021. „Designating Heritage as European: Between the European Union’s Heritage Initiatives and the Nation-s“. _International Journal of Cultural Policy_, 1–12. [https://doi.org/10.1080/10286632.2021.1872553](https://doi.org/10.1080/10286632.2021.1872553).
 
-Antonsich, Marco. 2008. „The Narration of Europe in `National’ and `Post-National’ Terms: Gauging the Gap between Normative Discourses and People’s Views“. _European Journal of Social Theory_ 11 (4): 505–22. [https://doi.org/10.1177/1368431008097009](https://doi.org/10.1177/1368431008097009).
+Antonsich, Marco. 2008. „The Narration of Europe in 'National' and 'Post-National' Terms: Gauging the Gap between Normative Discourses and People’s Views“. _European Journal of Social Theory_ 11 (4): 505–22. [https://doi.org/10.1177/1368431008097009](https://doi.org/10.1177/1368431008097009).
 
 Armbruster, Heidi, und Ulrike H. Meinhof. 2005. „Storying East-German pasts: memory discourses and narratives of readjustment on the German/Polish and former German/German border“. In _The sociolinguistics of narrative_, herausgegeben von Joanna Thornborrow und Jennifer Coates, 41–65. John Benjamins Publishing Company. [https://eprints.soton.ac.uk/37924/](https://eprints.soton.ac.uk/37924/).
 
