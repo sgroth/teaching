@@ -1,10 +1,10 @@
 ## University of Tübingen
   
 ### 2022
-* Upcoming: Narratives of Europe in Everyday-Life, Media, and Politics (Narrative Europas in Alltag, Medien und Politik), Bachelor, spring term 2022. University of Tübingen, Institute of Historical and Cultural Anthropology.  
-* Upcoming: European Infrastructures (Europäische Infrastrukturen), Bachelor, spring term 2022. University of Tübingen, Institute of Historical and Cultural Anthropology. With excursions. 
-* Upcoming: Visual Dimensions of Populism (Visuelle Dimensionen des Populismus), Bachelor, spring term 2022. University of Tübingen, Institute of Historical and Cultural Anthropology.  
-* Upcoming: Quantified Self: Material and Visual Dimensions of Leisure Sport and Fitness (Quantified Self: Materielle und visuelle Dimensionen am Beispiel von Freizeitsport und Fitness), Bachelor, spring term 2022. University of Tübingen, Institute of Historical and Cultural Anthropology.  
+* Narratives of Europe in Everyday-Life, Media, and Politics (Narrative Europas in Alltag, Medien und Politik), Bachelor, spring term 2022. University of Tübingen, Institute of Historical and Cultural Anthropology.  [(Syllabus)](https://github.com/sgroth/teaching/blob/master/2022/2022_ST_Narrative%20Europas%20in%20Alltag%2C%20Medien%20und%20Politikum.md)
+* European Infrastructures (Europäische Infrastrukturen), Bachelor, spring term 2022. University of Tübingen, Institute of Historical and Cultural Anthropology. With excursions. [(Syllabus)](https://github.com/sgroth/teaching/blob/master/2022/2022_ST_Europäische%20Infrastrukturen.md)
+* Visual Dimensions of Populism (Visuelle Dimensionen des Populismus), Bachelor, spring term 2022. University of Tübingen, Institute of Historical and Cultural Anthropology.  [(Syllabus)](https://github.com/sgroth/teaching/blob/master/2022/2022_ST_Visuelle%20Dimensionen%20des%20Populismus.md)
+* Quantified Self: Material and Visual Dimensions of Leisure Sport and Fitness (Quantified Self: Materielle und visuelle Dimensionen am Beispiel von Freizeitsport und Fitness), Bachelor, spring term 2022. University of Tübingen, Institute of Historical and Cultural Anthropology.  [(Syllabus)](https://github.com/sgroth/teaching/blob/master/2022/2022_ST_Quantified%20Self.md)
 
 ## University of Zurich
   
