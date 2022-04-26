@@ -21,10 +21,12 @@ Mit der “Quantifizierung des Selbst” wird die Selbstvermessung ganz untersch
 
 ## Termine
 ### Do 12:15 - 13:45 28.04.2022 – Digitale Vorbesprechung
-Zoom-Link: https://uzh.zoom.us/j/8435860456?pwd=bmtjTVVYK3pGNDNsOGpORms5ZlBhUT09
+Vorstellungsrunde, Vorstellung des Seminarthemas und des Ablaufs, Diskussion von möglichen Schwerpunktthemen und Interessen.
+
+Zoom-Link: wird per E-Mail verschickt.
 
 #### Aufgabe zum ersten Block
-
+Wählen Sie eine App oder eine Methode zur Selbstvermessung im Bereich Sport und Fitness. Dokumentieren Sie über einen Zeitraum von drei Wochen Ihre Erfahrungen mit App oder Methode in Form eines Feldtagebuchs. Bitte machen Sie sich zum Ende der Beobachtungsphase Gedanken über diese Art des Selbsttracking, Ihre Erfahrungen und Einstellungen dazu.
 
 ### Fr 12:15 - 18:00 27.05.2022 – Block 1
 ### Sa 09:00 - 14:45 28.05.2022 – Block 1
