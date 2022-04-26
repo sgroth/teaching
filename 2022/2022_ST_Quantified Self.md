@@ -19,6 +19,10 @@ Mit der “Quantifizierung des Selbst” wird die Selbstvermessung ganz untersch
 - Mämecke, Thorben. 2021. _Das Quantifizierte Selbst: Zur Genealogie des Self-Trackings_. Bielefeld: transcript. (open access)
 - Wiedemann, Lisa. 2019. _Self-Tracking: Vermessungspraktiken im Kontext von Quantified Self und Diabetes_. Wiesbaden: Springer Fachmedien Wiesbaden. [https://doi.org/10.1007/978-3-658-27158-9](https://doi.org/10.1007/978-3-658-27158-9).
 
+## Leistungsanforderungen
+- Teilnahme; mündliche Mitarbeit; Lektüre der Texte
+- **Referat** (mit Handout und schriftlicher Ausarbeitung); Länge des Referats 20 Min.; Literaturverarbeitung: 5-7 thematische und 2-5 theoretische Titel; Umfang der Ausarbeitung 7 Seiten BA, 10 Seiten MA; Inhalt: Themenstoff, Diskussion, Anbindung an Seminar, eigene Position; vgl. allgemeine Richtlinien des LUI.
+
 ## Termine
 ### Do 12:15 - 13:45 28.04.2022 – Digitale Vorbesprechung
 Vorstellungsrunde, Vorstellung des Seminarthemas und des Ablaufs, Diskussion von möglichen Schwerpunktthemen und Interessen.
