@@ -21,6 +21,7 @@ Mit der “Quantifizierung des Selbst” wird die Selbstvermessung ganz untersch
 
 ## Leistungsanforderungen
 - Teilnahme; mündliche Mitarbeit; Lektüre der Texte
+- Kurzinput zu einem Text
 - **Referat** (mit Handout und schriftlicher Ausarbeitung); Länge des Referats 20 Min.; Literaturverarbeitung: 5-7 thematische und 2-5 theoretische Titel; Umfang der Ausarbeitung 7 Seiten BA, 10 Seiten MA; Inhalt: Themenstoff, Diskussion, Anbindung an Seminar, eigene Position; vgl. allgemeine Richtlinien des LUI.
 
 ## Termine
