@@ -21,8 +21,8 @@ Mit der “Quantifizierung des Selbst” wird die Selbstvermessung ganz untersch
 
 ## Leistungsanforderungen
 - Teilnahme; mündliche Mitarbeit; Lektüre der Texte
-- Kurzinput zu einem Text
-- **Referat** (mit Handout und schriftlicher Ausarbeitung); Länge des Referats 20 Min.; Literaturverarbeitung: 5-7 thematische und 2-5 theoretische Titel; Umfang der Ausarbeitung 7 Seiten BA, 10 Seiten MA; Inhalt: Themenstoff, Diskussion, Anbindung an Seminar, eigene Position; vgl. allgemeine Richtlinien des LUI.
+- Kurzinput zu einem Text des ersten Blocks (5-10 Min., zentrale Aussagen des Textes und Diskussionsfragen)
+- **Referat** (mit Handout und schriftlicher Ausarbeitung) im zweiten Block; Länge des Referats 20 Min.; Literaturverarbeitung: 5-7 thematische und 2-5 theoretische Titel; Umfang der Ausarbeitung 7 Seiten BA, 10 Seiten MA; Inhalt: Themenstoff, Diskussion, Anbindung an Seminar, eigene Position; vgl. allgemeine Richtlinien des LUI. Die Themen der Referate werden im ersten Block besprochen und festgelegt.
 
 ## Termine
 ### Do 12:15 - 13:45 28.04.2022 – Digitale Vorbesprechung
@@ -30,13 +30,30 @@ Vorstellungsrunde, Vorstellung des Seminarthemas und des Ablaufs, Diskussion von
 
 Zoom-Link: wird per E-Mail verschickt.
 
-#### Aufgabe zum ersten Block
-Wählen Sie eine App oder eine Methode zur Selbstvermessung im Bereich Sport und Fitness. Dokumentieren Sie über einen Zeitraum von drei Wochen Ihre Erfahrungen mit App oder Methode in Form eines Feldtagebuchs. Bitte machen Sie sich zum Ende der Beobachtungsphase Gedanken über diese Art des Selbsttracking, Ihre Erfahrungen und Einstellungen dazu.
+#### Aufgaben zum ersten Block
+1. Wählen Sie eine App oder eine Methode zur Selbstvermessung im Bereich Sport und Fitness. Dokumentieren Sie über einen Zeitraum von ca. drei Wochen (9.5.2022 bis 27.5.2022) Ihre Erfahrungen mit App oder Methode in Form eines Feldtagebuchs. Bitte machen Sie sich kontinuierlich und v.a. zum Ende der Beobachtungsphase Gedanken über diese Art des Selbsttracking, Ihre Erfahrungen und Einstellungen dazu. Das Feldtagebuch muss nicht eingereicht werden, sondern dient der individuellen Reflexion. Es kann Grundlage von Referat und schriftlicher Ausarbeitung sein, das ist aber nicht zwingend. Die Erfahrungen werden zu Beginn des ersten Blocks kurz präsentiert (max. 10 Min.), Handout und/oder PowerPoint sind nicht zwingend, können aber nach Wunsch genutzt werden. Diese Präsentationen werden nicht benotet, es handelt sich dabei eher um einen Erfahrungsaustausch.
+2. Wählen Sie einen Text aus der Literatur zum ersten Block aus (s.u.), den Sie in Formen eines Kurzinputs präsentieren. Für die Auswahl/Verteilung der Texte nutzen wir ein Etherpad im Ilias-Kurs. Dort bitte mit Namen und Textwunsch eintragen.
+3. Bitte lesen Sie alle zum ersten Block gelisteten Texte (insg. acht), um eine gemeinsame Diskussionsgrundlage zu gewährleisten. Bitte starten Sie rechtzeitig mit der Lektüre!
 
-### Fr 12:15 - 18:00 27.05.2022 – Block 1
-### Sa 09:00 - 14:45 28.05.2022 – Block 1
-### Fr 12:15 - 18:00 22.07.2022 – Block 2 
-### Sa 09:00 - 14:45 23.07.2022 – Block 2
+### Fr 12:15 - 18:00 27.05.2022, Sa 09:00 - 14:45 28.05.2022 – Block 1
+Vorstellung und Diskussion der Aufgabe zum Block, Diskussion grundlegender Texte und Ansätze zum Quantified Self und Self Tracking.
+
+#### Literatur zu Block 1
+##### Allgemeine Literatur
+- Duttweiler, Stefanie, und Robert Gugutzer. 2015. „‚Ich habe das gute Gefühl, etwas Wichtiges für mich und meine Zukunft zu tun.‘ Self-Tracking im Sport - mehr als kurzfristige Selbstberuhigung?“ _Forschung Frankfurt_ 1: 28–33.
+
+##### Literatur für Kurzinputs
+1. Duttweiler, Stefanie, und Jan-Hendrik Passoth. 2016. „Self-Tracking als Optimierungsprojekt?“ In _Leben nach Zahlen. Self-Tracking als Optimierungsprojekt_, herausgegeben von Stefanie Duttweiler, 9–42. Bielefeld: Transcript.
+2. Depper, Annaleise, und P. David Howe. 2017. „Are We Fit yet? English Adolescent Girls’ Experiences of Health and Fitness Apps“. _Health Sociology Review_ 26 (1): 98–112. [https://doi.org/10.1080/14461242.2016.1196599](https://doi.org/10.1080/14461242.2016.1196599).
+3. Krahn, Yonca. 2019. „Gegen sich selbst und gegen abwesende Andere. Selbstmesspraktiken und Wettkampfformen im Triathlon“. In _Auf den Spuren der Konkurrenz_, herausgegeben von Karin Bürkert, Alexander Engel, Timo Heimerdinger, Markus Tauschek, und Tobias Werron, 179–97. Münster: Waxmann.
+4. Gugutzer, Robert. 2016. „Self-Tracking als Objektivation des Zeitgeists“. In _Leben nach Zahlen: Self-Tracking als Optimierungsprojekt?_, herausgegeben von Stefanie Duttweiler, 161–82. Bielefeld: Transcript.
+5. Lupton, Deborah. 2016. „You Are Your Data: Self-Tracking Practices and Concepts of Data“. In _Lifelogging_, herausgegeben von Stefan Selke, 61–79. Wiesbaden: Springer Fachmedien Wiesbaden. [https://doi.org/10.1007/978-3-658-13137-1_4](https://doi.org/10.1007/978-3-658-13137-1_4).
+6. Unternährer, Markus. 2016. „Selbstquantifizierung als numerische Form der Selbstthematisierung“. In _Leben nach Zahlen: Self-Tracking als Optimierungsprojekt?_, herausgegeben von Stefanie Duttweiler, Robert Gugutzer, Jan-Hendrik Passoth, und Jörg Strübing, 201–19. Bielefeld: Transcript.
+7. Frischling, Barbara. 2018. „What’s your pace?: Gedanken zum Forschen mit und über digitale(r) Selbstvermessung“. _kommunikation@gesellschaft_ 19 (3). [https://doi.org/10.15460/kommges.2018.19.3.604](https://doi.org/10.15460/kommges.2018.19.3.604).
+
+### Fr 12:15 - 18:00 22.07.2022, Sa 09:00 - 14:45 23.07.2022 – Block 2
+#### Literatur zu Block 2
+Angaben folgen nach dem Abschluss des ersten Blocks.
 
 ### Literatur
 Andersen, Julie Høgsgaard, und Susan Reynolds Whyte. 2014. „Measuring Risk, Managing Values: Health Technology and Subjectivity in Denmark“. _Anthropology & Medicine_ 21 (3): 265–76. [https://doi.org/10.1080/13648470.2014.907022](https://doi.org/10.1080/13648470.2014.907022).
@@ -53,7 +70,7 @@ Depper, Annaleise, und P. David Howe. 2017. „Are We Fit yet? English Adolescen
 
 Duttweiler, Stefanie, und Robert Gugutzer. 2015. „‚Ich habe das gute Gefühl, etwas Wichtiges für mich und meine Zukunft zu tun.‘ Self-Tracking im Sport - mehr als kurzfristige Selbstberuhigung?“ _Forschung Frankfurt_ 1: 28–33.
 
-Duttweiler, Stefanie, und Jan-Hendrik Passoth. 2016. „Self-Tracking als Optimierungsprojekt?“ _Leben nach Zahlen. Self-Tracking als Optimierungsprojekt_, 9–42.
+Duttweiler, Stefanie, und Jan-Hendrik Passoth. 2016. „Self-Tracking als Optimierungsprojekt?“ In Leben nach Zahlen. Self-Tracking als Optimierungsprojekt, herausgegeben von Stefanie Duttweiler, 9–42. Bielefeld: Transcript.
 
 Fotopoulou, Aristea, und Kate O’Riordan. 2017. „Training to Self-Care: Fitness Tracking, Biopedagogy and the Healthy Consumer“. _Health Sociology Review_ 26 (1): 54–68. [https://doi.org/10.1080/14461242.2016.1184582](https://doi.org/10.1080/14461242.2016.1184582).
 
@@ -80,8 +97,6 @@ Krahn, Yonca. 2019. „Gegen sich selbst und gegen abwesende Andere. Selbstmessp
 Lupton, Deborah. 2012. „M-Health and Health Promotion: The Digital Cyborg and Surveillance Society“. _Social Theory & Health_ 10 (3): 229–44. [https://doi.org/10.1057/sth.2012.6](https://doi.org/10.1057/sth.2012.6).
 
 ———. 2013a. „Quantifying the Body: Monitoring and Measuring Health in the Age of MHealth Technologies“. _Critical Public Health_ 23 (4): 393–403. [https://doi.org/10.1080/09581596.2013.794931](https://doi.org/10.1080/09581596.2013.794931).
-
-———. 2013b. „Quantifying the Body: Monitoring and Measuring Health in the Age of MHealth Technologies“. _Critical Public Health_ 23 (4): 393–403. [https://doi.org/10.1080/09581596.2013.794931](https://doi.org/10.1080/09581596.2013.794931).
 
 ———. 2016. „You Are Your Data: Self-Tracking Practices and Concepts of Data“. In _Lifelogging_, herausgegeben von Stefan Selke, 61–79. Wiesbaden: Springer Fachmedien Wiesbaden. [https://doi.org/10.1007/978-3-658-13137-1_4](https://doi.org/10.1007/978-3-658-13137-1_4).
 
