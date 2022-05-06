@@ -32,7 +32,7 @@ Zoom-Link: wird per E-Mail verschickt.
 
 #### Aufgaben zum ersten Block
 1. Wählen Sie eine App oder eine Methode zur Selbstvermessung im Bereich Sport und Fitness. Dokumentieren Sie über einen Zeitraum von ca. drei Wochen (9.5.2022 bis 27.5.2022) Ihre Erfahrungen mit App oder Methode in Form eines Feldtagebuchs. Bitte machen Sie sich kontinuierlich und v.a. zum Ende der Beobachtungsphase Gedanken über diese Art des Selbsttracking, Ihre Erfahrungen und Einstellungen dazu. Das Feldtagebuch muss nicht eingereicht werden, sondern dient der individuellen Reflexion. Es kann Grundlage von Referat und schriftlicher Ausarbeitung sein, das ist aber nicht zwingend. Die Erfahrungen werden zu Beginn des ersten Blocks kurz präsentiert (max. 10 Min.), Handout und/oder PowerPoint sind nicht zwingend, können aber nach Wunsch genutzt werden. Diese Präsentationen werden nicht benotet, es handelt sich dabei eher um einen Erfahrungsaustausch.
-2. Wählen Sie einen Text aus der Literatur zum ersten Block aus (s.u.), den Sie in Formen eines Kurzinputs präsentieren. Für die Auswahl/Verteilung der Texte nutzen wir ein Etherpad im Ilias-Kurs. Dort bitte mit Namen und Textwunsch eintragen.
+2. Wählen Sie bis zum 13.05.2022 einen Text aus der Literatur zum ersten Block aus (s.u.), den Sie in Formen eines Kurzinputs präsentieren. Für die Auswahl/Verteilung der Texte nutzen wir ein Etherpad im Ilias-Kurs. Dort bitte mit Namen und Textwunsch eintragen.
 3. Bitte lesen Sie alle zum ersten Block gelisteten Texte (insg. acht), um eine gemeinsame Diskussionsgrundlage zu gewährleisten. Bitte starten Sie rechtzeitig mit der Lektüre!
 
 ### Fr 12:15 - 18:00 27.05.2022, Sa 09:00 - 14:45 28.05.2022 – Block 1
