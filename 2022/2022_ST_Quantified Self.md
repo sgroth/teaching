@@ -22,6 +22,7 @@ Mit der “Quantifizierung des Selbst” wird die Selbstvermessung ganz untersch
 ## Leistungsanforderungen
 - Teilnahme; mündliche Mitarbeit; Lektüre der Texte
 - Kurzinput zu einem Text des ersten Blocks (5-10 Min., zentrale Aussagen des Textes und Diskussionsfragen)
+- Übung zum ersten Block (s.u.)
 - **Referat** (mit Handout und schriftlicher Ausarbeitung) im zweiten Block; Länge des Referats 20 Min.; Literaturverarbeitung: 5-7 thematische und 2-5 theoretische Titel; Umfang der Ausarbeitung 7 Seiten BA, 10 Seiten MA; Inhalt: Themenstoff, Diskussion, Anbindung an Seminar, eigene Position; vgl. allgemeine Richtlinien des LUI. Die Themen der Referate werden im ersten Block besprochen und festgelegt.
 
 ## Termine
