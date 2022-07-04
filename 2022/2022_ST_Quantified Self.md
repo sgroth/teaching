@@ -53,10 +53,14 @@ Vorstellung und Diskussion der Aufgabe zum Block, Diskussion grundlegender Texte
 7. Frischling, Barbara. 2018. „What’s your pace?: Gedanken zum Forschen mit und über digitale(r) Selbstvermessung“. _kommunikation@gesellschaft_ 19 (3). [https://doi.org/10.15460/kommges.2018.19.3.604](https://doi.org/10.15460/kommges.2018.19.3.604).
 
 ### Fr 12:15 - 18:00 22.07.2022, Sa 09:00 - 14:45 23.07.2022 – Block 2
-Präsentation und Diskussion der Referate (bitte melden, falls der Wunsch besteht, an einem spezifischen Tag zu präsentieren!).
-
 #### Ablauf
-Für jedes Referat sind 20 Minuten Präsentationszeit geplant
+- Präsentation und Diskussion der Referate (bitte melden, falls der Wunsch besteht, an einem spezifischen Tag zu präsentieren!). 
+- Für jedes Referat sind 20 Minuten Präsentationszeit geplant. 
+- Im Anschluss an die Referate ist je ca. 15-20 Minuten Zeit für Diskussionen des jeweiligen Themas vor dem Hintergrund der Seminarlektüre. 
+- Bitte bereitet Diskussionsfragen vor, die v.a. Euch nutzen sollen (also bspw.: Passt der gewählte Ansatz zum Feld?)
+- Handouts können gerne digital sein.
+- 
+
 
 #### Literatur zu Block 2
 1. Borenstein, Hannah. 2021. „Tracking Work from the Wrist: The Surveillance of Ethiopian Women Athletes for Capital“. _Catalyst: Feminism, Theory, Technoscience_ 7 (1). [https://doi.org/10.28968/cftt.v7i1.34037](https://doi.org/10.28968/cftt.v7i1.34037).
