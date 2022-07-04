@@ -56,6 +56,35 @@ Vorstellung und Diskussion der Aufgabe zum Block, Diskussion grundlegender Texte
 #### Literatur zu Block 2
 Angaben folgen nach dem Abschluss des ersten Blocks.
 
+### Theoretische Ansätze
+# Theorien
+- Akteur-Netzwerk-Theorie
+- Assemblage-Begriff
+- Normalismus/Normalität
+	- Protonormalismus und flexibler Normalismus
+	- visuelle Dimensionen (auch körperlich)
+	- relationierter Vergleich
+- surveillance capitalism / Datenkapitalismus
+- Foucault: 
+	- Techniken des Selbst
+	- Gouvernmentalität
+	- Disziplinargesellschaft
+	- klinischer Blick
+	- Biomacht/Biopolitik
+	- Wille zum Wissen
+- Deleuze
+	- Kontrollgesellschaft
+- Unternehmerisches Selbst (Bröckling) / Arbeitskraftunternehmer (Voss)
+- Responsibilisierung
+- Atmosphäre (Gernot Böhme)
+- Ästhetik
+- Neue Phänomenologie (Schmitz)
+- Emotionen (Scheer)
+- Selbstthematisierung (Unternährer)
+- Selbstoptimierung  (Anja Röcke, Greta Wagner, Duttweiler)
+- Materialität (Ingold)
+- Metaphern (Lakoff/Johnson, Bröckling)
+
 ### Literatur
 Andersen, Julie Høgsgaard, und Susan Reynolds Whyte. 2014. „Measuring Risk, Managing Values: Health Technology and Subjectivity in Denmark“. _Anthropology & Medicine_ 21 (3): 265–76. [https://doi.org/10.1080/13648470.2014.907022](https://doi.org/10.1080/13648470.2014.907022).
 
