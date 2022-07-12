@@ -62,6 +62,12 @@ Vorstellung und Diskussion der Aufgabe zum Block, Diskussion grundlegender Texte
 - Handouts können gerne digital sein.
 - Bitte schickt Eure Folien bis zum 21.7.2022 per E-Mail an die Seminarteilnehmer:innen.
 
+#### Reihenfolge Referate
+##### Freitag
+- Nina Guth
+
+##### Samstag
+
 #### Literatur zu Block 2
 1. Borenstein, Hannah. 2021. „Tracking Work from the Wrist: The Surveillance of Ethiopian Women Athletes for Capital“. _Catalyst: Feminism, Theory, Technoscience_ 7 (1). [https://doi.org/10.28968/cftt.v7i1.34037](https://doi.org/10.28968/cftt.v7i1.34037).
 2. Till, Chris. 2014. ‘Exercise as Labour: Quantified Self and the Transformation of Exercise into Labour’. Societies 4 (3): 446–62. https://doi.org/10.3390/soc4030446.
